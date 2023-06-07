@@ -2,7 +2,7 @@
 
 day_of_week = input("what day of the week is it today? ").lower()
 
-day_list = {"saturday", "sunday", "monday", "tuesday", "wednesday", "thursday", "friday"}
+
 
 if day_of_week in day_list:
     print("Have a great start to your week")
