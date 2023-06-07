@@ -34,3 +34,5 @@ science = {"Bob", "Anne"}
 
 both = art.intersection(art);
 print(both)
+
+
