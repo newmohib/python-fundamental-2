@@ -1,4 +1,3 @@
-
 # class Inheritance
 
 
@@ -35,7 +34,7 @@ class Printer(Device):
             return
         print(f"Printing {pages} pages.")
         self.remaining_pages -= pages
-        
+
 
 printer = Printer("Printer", "USB", 500)
 printer.print(20)
